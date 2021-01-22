@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00049FB8-08D8-A0E4-58B6-3730AB3D8D61}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RosUnreal",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
