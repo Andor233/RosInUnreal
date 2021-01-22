@@ -10,4 +10,4 @@ Delete ros console and something else, only remain core function.
 
 TODO:
 - Compatible with windows(I have a windows version but it needs to change engine code)
-- Use unreal log instead of ros log
+- Use unreal log instead of ros log(I ignored all the ros log for now)
